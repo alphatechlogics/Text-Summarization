@@ -16,7 +16,7 @@ A sleek and efficient web-based application for **summarizing text and PDF docum
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/text-summarization-app.git
+   git clone https://github.com/alphatechlogics/Text-Classification.git
    cd text-summarization-app
    ```
 2. **Set up a virtual environment (recommended):**
