@@ -127,7 +127,7 @@ pydeck==0.9.1
 pyflakes==3.2.0
 Pygments==2.18.0
 pymagnitude-lite==0.1.143
-PyPDF2
+PyPDF2==3.9.0
 pypdfium2==4.30.1
 python-bidi==0.6.3
 python-dateutil==2.9.0.post0
