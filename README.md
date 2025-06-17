@@ -2,6 +2,8 @@
 
 A streamlined and efficient web-based application for **summarizing text**, built using 🧠 `LangChain`, 🌟 `Streamlit`, and the **Gemma2-9b-It** language model.
 
+![](https://raw.github.com/alphatechlogics/Text-Summarization/2975fc58648916122b4b77dde14cc03a8479a9cf/image.png)
+
 ---
 
 ## ✨ Features
